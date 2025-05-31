@@ -1,5 +1,13 @@
 # local package
 -e .
+dask
+pandas
+joblib
+scikit-learn
+mlflow
+dagshub
+seaborn
+xgboost
 
 # external requirements
 click
